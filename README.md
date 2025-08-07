@@ -1,8 +1,7 @@
 ## HTML Version
 You can view the HTML version of this notebook:
-- **Project Overview:** [index.html](docs/index.html) - Interactive landing page with project details
-- **Full Simulation:** [joseph-effect-simulation.html](docs/joseph-effect-simulation.html) - Complete notebook with all code and results
-- **GitHub Pages:** [https://endregb.github.io/josephson-effect-simulation/](https://endregb.github.io/josephson-effect-simulation/)
+- **Project Overview:** [index.html](https://endregb.github.io/josephson-effect/) - Interactive landing page with project details
+- **Full Simulation:** [joseph-effect-simulation.html](https://endregb.github.io/josephson-effect/joseph-effect-simulation.html) - Complete notebook with all code and results
 
 # Josephson Effect Simulation
 
