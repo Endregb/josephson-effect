@@ -15,8 +15,8 @@ We solve the **Usadel equations** numerically to study how superconducting corre
 ![Current Integrand vs Energy](figures/current-integrand-energy.png)
 *Figure 1: Current integrand as a function of energy for different phase differences between the superconductors. The integrand shows how different energy states contribute to the total supercurrent, with positive and negative contributions depending on the phase difference. The area under these curves determines the net current flow through the junction.*
 
-![Supercurrent vs Phase Difference](figures/supercurrent-phase.png)
-*Figure 2: Supercurrent as a function of phase difference between the superconductors. The supercurrent peaks at \(\Delta\varphi = \pi/2\) and approaches zero as the phase difference approaches zero or \(\pi\). This behavior is characteristic of the Josephson effect, where the current is maximized when the phase difference is optimal for Cooper pair tunneling.*
+![Current Integrand vs Phase difference](figures/current-integrand-phase.png)
+*Figure 2: Current integrand as a function of phase difference between the superconductors. The integrand peaks at \$\Delta\varphi = \pi/2\$ and approaches zero as the phase difference approaches zero or \$\pi\$. This behavior is characteristic of the Josephson effect, where the current is maximized when the phase difference is optimal for Cooper pair tunneling.*
 
 ---
 
@@ -69,7 +69,7 @@ Collaborators:
 The simulations demonstrate that:
 
 - In symmetric boundary conditions (no phase difference), no net supercurrent flows
-- When a phase difference is introduced between the superconductors, a supercurrent emerges, peaking near \(\Delta\varphi = \pi/2\)
+- When a phase difference is introduced between the superconductors, a supercurrent emerges, peaking near $\Delta\varphi = \pi/2$
 - The **density of states** in the normal region shows a **minigap** due to the **proximity effect**, which shrinks as the length of the normal metal increases
 
 These results align with theoretical predictions and confirm the usefulness of the Usadel equation in modeling mesoscopic superconducting systems.
