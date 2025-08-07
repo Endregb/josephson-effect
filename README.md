@@ -15,7 +15,7 @@ We solve the **Usadel equations** numerically to study how superconducting corre
 *Figure 1: Current integrand as a function of energy for different phase differences between the superconductors. The integrand shows how different energy states contribute to the total supercurrent, with positive and negative contributions depending on the phase difference. The area under these curves determines the net current flow through the junction.*
 
 ![Current Integrand vs Phase difference](figures/current-integrand-phase.png)
-*Figure 2: Current integrand as a function of phase difference between the superconductors. The integrand peaks at \$\Delta\varphi = \pi/2\$ and approaches zero as the phase difference approaches zero or \$\pi\$. This behavior is characteristic of the Josephson effect, where the current is maximized when the phase difference is optimal for Cooper pair tunneling.*
+*Figure 2: Current integrand as a function of phase difference between the superconductors. The integrand peaks at $\Delta\varphi = \pi/2$ and approaches zero as the phase difference approaches zero or $\pi$. This behavior is characteristic of the Josephson effect, where the current is maximized when the phase difference is optimal for Cooper pair tunneling.*
 
 ---
 
